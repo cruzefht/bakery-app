@@ -3,6 +3,7 @@ nav{position: sticky;
     color:#7B4F2E;
     width:100%;
     text-decoration:none;
+     color:white;
 
 }
 body{width:100%;
@@ -12,6 +13,15 @@ body{width:100%;
     overflow-x:hidden;
     height:1000px;
     line-height:1.6;
+
+
+}
+
+.miraculous{color:rgb(165, 165, 248);
+        font-size:30px;
+        font-weight:300;
+        text-decoration:none;
+        position:fixed;
 
 
 }
